@@ -57,3 +57,10 @@ Prerequisites
 Updates are deployed monthly using a Blue/Green strategy to ensure zero downtime.
 * CI/CD: GitHub Actions builds the Docker image, pushes to ECR, and updates the ECS Service.
 * Versioning: All modules are versioned within the single repository for consistency. 
+
+
+
+
+**Author**: Kadiri George 
+**Version**: 1.0.0  
+**Last Updated**: April 2026
